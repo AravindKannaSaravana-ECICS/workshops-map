@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Accord Autocare Pte Ltd",
+    "address": "7 Soon Lee Street #05-02/03/04/05 iSpace Singapore 627608",
+    "location": "Soon Lee",
+    "contact": "92239933",
+    "email": "claims@accordautocare.sg",
+    "category": "High Performance / High Value Policy Workshop",
+    "region": "West",
+    "lat": "1.3353982052802658",
+    "lng": "103.70002162416364"
+  },
+  {
+    "name": "Euroauto Garage Pte Ltd",
+    "address": "8 Kaki Bukit Avenue 4 #02-25/26 Premier @ Kaki Bukit Singapore 415875",
+    "location": "Kaki Bukit",
+    "contact": "93869335",
+    "email": "simon@euroauto.com.sg",
+    "category": "High Performance / High Value Policy Workshop",
+    "region": "East",
+    "lat": "1.3386942909124433",
+    "lng": "103.90576093639115"
+  }
+]

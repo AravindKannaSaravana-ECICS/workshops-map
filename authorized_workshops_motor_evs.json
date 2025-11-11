@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Accord Autocare Pte Ltd",
+    "address": "7 Soon Lee Street #05-02/03/04/05 iSpace Singapore 627608",
+    "location": "Soon Lee",
+    "contact": "92239933",
+    "email": "claims@accordautocare.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "West",
+    "lat": "1.3353982052802658",
+    "lng": "103.70002162416364",
+    "remarks": "All electric car makes/models except Tesla"
+  },
+  {
+    "name": "AutoInsure by Century Motors (Main)",
+    "address": "6 Marsiling Lane Singapore 739145",
+    "location": "Marsiling",
+    "contact": "31572626/88212626",
+    "email": "cmreportml@inchcape.com.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "North",
+    "lat": "1.4460731217259268",
+    "lng": "103.77732547072267",
+    "remarks": "All electric car makes/models except Tesla"
+  },
+  {
+    "name": "AutoInsure by Century Motors (Toh Guan Branch)",
+    "address": "48 Toh Guan Road East #01-101 Enterprise Hub Singapore 608586",
+    "location": "Toh Guan",
+    "contact": "31572618/87832626",
+    "email": "cmreporttg@inchcape.com.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "West",
+    "lat": "1.3398226831663538",
+    "lng": "103.75471626016221",
+    "remarks": "Accident Reporting Centre Only"
+  },
+  {
+    "name": "AutoInsure by Century Motors (Kaki Bukit Branch)",
+    "address": "8 Kaki Bukit Avenue 4 #03-50 Premier @ Kaki Bukit Singapore 415875",
+    "location": "Kaki Bukit",
+    "contact": "31572617/88232626",
+    "email": "cmreportkb@inchcape.com.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "East",
+    "lat": "1.33811453913939",
+    "lng": "103.90715110940546",
+    "remarks": "Accident Reporting Centre Only"
+  },
+  {
+    "name": "CYS Automobile Services Pte Ltd",
+    "address": "38 Woodlands Industrial Park E1 #07-17 Singapore 757700",
+    "location": "Woodlands",
+    "contact": "62192098",
+    "email": "cysauto@singnet.com.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "North",
+    "lat": "1.4562284576935174",
+    "lng": "103.79804364003584",
+    "remarks": "All electric car makes/models except Tesla"
+  },
+  {
+    "name": "Harmony New Energy Auto Service (BYD & Denza)",
+    "address": "7 Ubi Close Basement 1 Alpine Centre Singapore 408604",
+    "location": "Ubi",
+    "contact": "80753153",
+    "email": "svcenquiry@hexieauto.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "East",
+    "lat": "1.336566234042289",
+    "lng": "103.89912830827812",
+    "remarks": "Only BYD and Denza Cars"
+  },
+  {
+    "name": "Optima Werkz Pte Ltd",
+    "address": "10 Ang Mo Kio Industrial Park 2A #01-05 AMK Autopoint Singapore 568047",
+    "location": "Ang Mo Kio",
+    "contact": "64811522",
+    "email": "motorclaims@ow.com",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "North",
+    "lat": "1.3787517555842372",
+    "lng": "103.86951416964482",
+    "remarks": "All electric car makes/models including Tesla"
+  },
+  {
+    "name": "1st Autoworks Pte Ltd",
+    "address": "7 Ubi Close Level 1 Alpine Centre Singapore 408604",
+    "location": "Ubi",
+    "contact": "68441985",
+    "email": "claims@firstautoworks.com.sg",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "East",
+    "lat": "1.3364804267062498",
+    "lng": "103.89741169456289",
+    "remarks": "All electric car makes/models except Tesla"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Borneo Motors (Singapore) Pte Ltd (West Coast)",
+    "address": "Inchcape Bodycare Centre, Level 4; 2 Pandan Crescent Singapore 128462",
+    "location": "West Coast",
+    "contact": "66311188",
+    "email": "CR@inchcape.com.sg",
+    "category": "Authorised Distributor Workshop",
+    "region": "West",
+    "lat": "1.3028414974276026",
+    "lng": "103.76102223389458",
+    "remarks": "Toyota & Lexus Vehicles Only"
+  },
+  {
+    "name": "Borneo Motors (Singapore) Pte Ltd (Ubi)",
+    "address": "17 Ubi Road 4 Singapore 408611",
+    "location": "Ubi",
+    "contact": "66311188",
+    "email": "CR@inchcape.com.sg",
+    "category": "Authorised Distributor Workshop",
+    "region": "East",
+    "lat": "1.3330986834024556",
+    "lng": "103.90037081425183",
+    "remarks": "Accident Reporting Centre Only"
+  },
+  {
+    "name": "Champion Motor (1975) Pte Ltd",
+    "address": "Inchcape Bodycare Centre, Level 4; 2 Pandan Crescent Singapore 128462",
+    "location": "West Coast",
+    "contact": "66311188",
+    "email": "CR@inchcape.com.sg",
+    "category": "Authorised Distributor Workshop",
+    "region": "West",
+    "lat": "1.3028414974276026",
+    "lng": "103.76102223389458",
+    "remarks": "Suzuki Vehicles Only"
+  }
+]

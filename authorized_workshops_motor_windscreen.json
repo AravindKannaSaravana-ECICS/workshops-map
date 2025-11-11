@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Glass-Fix Pte Ltd (Main - Ubi)",
+    "address": "52 Ubi Avenue 3 #04-42 Frontier E Park Singapore 408867",
+    "location": "Ubi",
+    "contact": "62780887",
+    "email": "claims@glass-fix.net",
+    "category": "Authorised Windscreen Workshop",
+    "region": "East",
+    "lat": "1.3331411020732322",
+    "lng": "103.90124665966796",
+    "remarks": "All makes/models excluding Tesla"
+  },
+  {
+    "name": "Glass-Fix Pte Ltd (Toh Guan)",
+    "address": "48 Toh Guan Road East #03-128 Enterprise Hub Singapore 608586",
+    "location": "Toh Guan",
+    "contact": "62780887",
+    "email": "claims@glass-fix.net",
+    "category": "Authorised Windscreen Workshop",
+    "region": "West",
+    "lat": "1.3406807552224265",
+    "lng": "103.75574622839135",
+    "remarks": "All makes/models excluding Tesla"
+  },
+  {
+    "name": "Glazity Auto Pte Ltd (Main - Toh Guan)",
+    "address": "32 Old Toh Tuck Road #02-04 Singapore 597658",
+    "location": "Toh Guan",
+    "contact": "96883619",
+    "email": "claims@glazity.sg",
+    "category": "Authorised Windscreen Workshop",
+    "region": "West",
+    "lat": "1.3350414980909722",
+    "lng": "103.75852196279217",
+    "remarks": "All makes/models excluding Tesla"
+  },
+  {
+    "name": "Glazity Auto Pte Ltd (Kaki Bukit)",
+    "address": "13 Kaki Bukit Avenue 4 #01-28 Bartley Biz Centre Singapore 417807",
+    "location": "Kaki Bukit",
+    "contact": "96883619",
+    "email": "claims@glazity.sg",
+    "category": "Authorised Windscreen Workshop",
+    "region": "East",
+    "lat": "1.3425480362880342",
+    "lng": "103.91143946016555",
+    "remarks": "All makes/models excluding Tesla"
+  }
+]
